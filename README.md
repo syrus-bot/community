@@ -7,10 +7,8 @@ all the community management tasks and concerns of Syrus.
 
 - [Contribution guidelines][contributing]
 - [Team information][teams]
-- [Project-wide licensing][license]
-- [Syrus copyright notice][copyright]
+- [Project-wide licensing & Syrus copyright notice][license]
 
 [contributing]: CONTRIBUTING.md
 [teams]: TEAMS.md
-[license]: COPYING
-[copyright]: COPYING.NOTICE
+[license]: LICENSE
