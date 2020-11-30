@@ -24,9 +24,16 @@ all your interactions with the project.
    The versioning scheme we use is [semantic versioning][semver]. Once again,
    this is not necessary for repositories that use the automatic release
    workflow.
-5. You may merge the Pull Request once you have acquired the approval of two
-   other developers, or if you do not have permission to do that, you may
-   request the most recent reviewer to do it for you.
+5. You may merge the Pull Request if any of the following are true (and, if you
+   cannot merge yourself, you may ask the most recent reviewing contributor to
+   do it for you):
+   * *a)* The contributions are on `staging` targeted at `master`, the source
+   has been tested properly and passes all workflows *AND* has the approval of
+   two organization members.
+   * *b)* The contribution is on a `dev/*` branch targeted at `staging` and your
+   code passes all tests and workflows.
+   * *c)* The contribution is from an external branch targeted at `staging` and
+   your code passes all tests and workflows.
 
 [semver]: https://semver.org
 
