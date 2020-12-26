@@ -3,7 +3,7 @@
 
 |     Main Team     |     Sub Team     |               Functional Purpose               | Leader(s) | Members |
 |:-----------------:|:----------------:|:----------------------------------------------:|:---------:|:-------:|
-| [Bot Development] |  Not Applicable  |  Developers of Syrus' [Discord bot interface]  |   [N26]   |    4    |
+| [Bot Development] |  Not Applicable  |  Developers of Syrus' [Discord bot interface]  |   [N26]   |    3    |
 | [Web Development] | [Main Site Team] | Website, website API, and dashboard developers | [colecci] |    3    |
 |         ^         |    [API Team]    |    Developers of Syrus' [bot and image API]    | [Mr Time] |    2    |
 
@@ -11,7 +11,6 @@
 |   Member  |            Role(s)            |       Contact Info      |
 |:---------:|:-----------------------------:|:-----------------------:|
 |   [N26]   | Maintainer and Lead Developer | [My contact list][n26c] |
-|  [Feixu]  |         Jr. Developer         |        Feixu#7799       |
 | [Mr Time] |      Secondary Developer      |       MrTime#6969       |
 | [colecci] |      Secondary Developer      |        Cole#8888        |
 
@@ -42,7 +41,6 @@
 [N26]: https://github.com/Nytelife26
 [colecci]: https://github.com/colecci
 [Mr Time]: https://github.com/mynameismrtime
-[Feixu]: https://github.com/FeixuRuins
 [Logan Heinzelman]: https://github.com/LoganHeinzelman
 [DevBuggs]: https://github.com/DvBuggs
 [NewoMadness]: https://github.com/NewoMadness
