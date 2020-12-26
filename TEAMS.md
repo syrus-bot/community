@@ -11,7 +11,7 @@
 |   Member  |            Role(s)            |       Contact Info      |
 |:---------:|:-----------------------------:|:-----------------------:|
 |   [N26]   | Maintainer and Lead Developer | [My contact list][n26c] |
-| [Mr Time] |      Secondary Developer      |       MrTime#6969       |
+|   [Max]   |      Secondary Developer      |       MrTime#6969       |
 | [colecci] |      Secondary Developer      |        Cole#8888        |
 
 ## Main Site Team
@@ -27,7 +27,7 @@
 
 |     Member    |            Role(s)            |       Contact Info      |
 |:-------------:|:-----------------------------:|:-----------------------:|
-|   [Mr Time]   | Maintainer and Lead Developer |       MrTime#6969       |
+|     [Max]     | Maintainer and Lead Developer |       MrTime#6969       |
 |     [N26]     |        Project Overseer       | [My contact list][n26c] |
 | [NewoMadness] |           Developer           |        Newo#8854        |
 
@@ -40,7 +40,7 @@
 [bot and image API]: https://github.com/syrus-bot/bot-api
 [N26]: https://github.com/Nytelife26
 [colecci]: https://github.com/colecci
-[Mr Time]: https://github.com/mynameismrtime
+[Max]: https://github.com/mynameismax
 [Logan Heinzelman]: https://github.com/LoganHeinzelman
 [DevBuggs]: https://github.com/DvBuggs
 [NewoMadness]: https://github.com/NewoMadness
